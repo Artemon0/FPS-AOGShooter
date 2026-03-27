@@ -1,0 +1,4 @@
+repository "FPS-AOGShooter/FPS-AOGShooter@7972088671048@cloud"
+  path "/"
+    br "/main"
+    co "/main"
